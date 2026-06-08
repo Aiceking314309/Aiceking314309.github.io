@@ -1,3 +1,1 @@
-#
-Admob
-#
+google.com, pub-1723094692999892, DIRECT, f08c47fec0942fa0
